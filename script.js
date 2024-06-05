@@ -1,4 +1,4 @@
-
+// script.js
 
 document.addEventListener("DOMContentLoaded", function() {
     // Simuler un chargement de contenu (vous pouvez remplacer setTimeout par un événement de chargement réel)
