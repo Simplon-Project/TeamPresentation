@@ -1,4 +1,4 @@
-// script.js
+
 
 document.addEventListener("DOMContentLoaded", function() {
     // Simuler un chargement de contenu (vous pouvez remplacer setTimeout par un événement de chargement réel)
@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 
-const text = "Présentation de votre équipe !"; // Votre texte à afficher
+const text = "une team de ouf pour des ouf de dev !"; // Votre texte à afficher
 let index = 0;
 
 function typeWriter() {
